@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="/opt/workspace/jogl/jar/gluegen-rt.jar" sourcepath="/opt/workspace/jogl/gluegen-java-src.zip"/>
+	<classpathentry kind="lib" path="/opt/workspace/jogl/jar/jogl-all.jar" sourcepath="/opt/workspace/jogl/jogl-java-src.zip"/>
+	<classpathentry kind="lib" path="/opt/workspace/jogl/jar/gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="/opt/workspace/jogl/jar/jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
